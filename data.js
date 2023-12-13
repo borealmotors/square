@@ -90,6 +90,42 @@ export const saleList = [{
     seat: '8seater Auto transmission'
   },
   price: '1,050,000'
+},{
+  img: "images/products/img9.jpg",
+  brand: 'Toyota',
+  name: 'Toyota Harrier 2011',
+  features: {
+    fuel: '1800CC',
+    seat: 'Super Clean, Trade in accepted'
+  },
+  price: '1,790,000'
+},{
+  img: "images/products/img10.jpg",
+  brand: 'Toyota',
+  name: 'Toyota ISIS 2011',
+  features: {
+    fuel: '1800CC',
+    seat: '7seater Accident free 135km mileage'
+  },
+  price: '899,000 trade in accepted'
+},{
+  img: "images/products/img11.jpg",
+  brand: 'Nissan',
+  name: 'Nissan Hard Body 2012',
+  features: {
+    fuel: '3000CC',
+    seat: 'Extremely Clean'
+  },
+  price: '1,475,000'
+},{
+  img: "images/products/img12.jpg",
+  brand: 'Toyota',
+  name: 'Toyota Fielder 2012',
+  features: {
+    fuel: '1800CC',
+    seat: '2WD original neat dark interior'
+  },
+  price: '1,250,000'
 }]
 
 
