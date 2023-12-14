@@ -26,7 +26,7 @@ export const saleList = [{
     fuel: '2000CC',
     seat: '8seater',
   },
-  price: '1,585,000'
+  price: '1,580,000'
 },{
   img:"images/products/img2.jpg",
   brand: "Nissan",
