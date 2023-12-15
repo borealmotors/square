@@ -115,7 +115,7 @@ body{
   display: none;
 }
 #hero{
-  background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(images/hero/hero1.jpg);
+  background: linear-gradient(135.8deg, rgba(26, 26, 29, 0.3) 27.1%, rgba(111, 34, 50, 0.1) 77.5%), url(images/hero/hero1.jpg);
   height: 90vh;
   width: 100%;
   background-position: top 25% right 0;
@@ -272,6 +272,22 @@ body{
   padding-top: 7px;
   color: #1a1a1a;
   font-size: 14px;
+}
+#product1 .pro .des h5 .sale-stock{
+  background: darkgreen;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: 10px;
+  align-items: center;
+}
+#product1 .pro .des .star .specs{
+  background: grey;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  margin-right: 20px;
+  align-items: center;
 }
 #product1 .pro .des i{
   font-size: 12px;
@@ -637,7 +653,7 @@ footer .copywrite{
   }
   #hero{
     padding: 0 20px;
-    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.6)), url(images/hero/hero11.jpg);
+    background: linear-gradient(135.8deg, rgba(26, 26, 29, 0.3) 27.1%, rgba(111, 34, 50, 0.1) 77.5%), url(images/hero/hero11.jpg);
     background-position: 30%;
     background-size: cover;
     background-repeat: no-repeat;

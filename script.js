@@ -45,12 +45,13 @@ saleList.forEach((sale) => {
   const items = `<div class="pro">
   <img src="${sale.img}" alt="">
   <div class="des">
-    <span>${sale.brand}</span>
-    <h5>${sale.name}</h5>
+    <span>${sale.brand}</span> 
+    <h5>${sale.name} <span class="sale-stock">${sale.saleStock}</span></h5>
     <div class="star">
      <p>${sale.features.fuel}</p>
      <p>${sale.features.seat}</p>
-
+     <p><span class="specs">${sale.gear}</span>
+     <span class="specs">${sale.consumption}</span></p>
     </div>
     <h4>Ksh${sale.price}</h4>
   </div>

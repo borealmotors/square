@@ -22,15 +22,21 @@ export const saleList = [{
   img:"images/products/img1.jpg",
   brand: "Toyota",
   name: "Toyota Noah YOM 2014",
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '2000CC',
     seat: '8seater',
   },
-  price: '1,580,000'
+  price: '1,585,000'
 },{
   img:"images/products/img2.jpg",
   brand: "Nissan",
   name: "Nissan Note 2013",
+  saleStock: "In Stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1500CC',
     seat: '5seater',
@@ -40,6 +46,9 @@ export const saleList = [{
   img:"images/products/img3.jpg",
   brand: "Toyota",
   name: "Toyota VITZ 2007",
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1300CC',
     seat: '5seater',
@@ -49,6 +58,9 @@ export const saleList = [{
   img:"images/products/img4.jpg",
   brand: "Nissan",
   name: "Nissan Wingroad",
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1500CC',
     seat: '5seater',
@@ -58,6 +70,9 @@ export const saleList = [{
   img:"images/products/img5.jpg",
   brand: "Toyota",
   name: "Toyota axio kcw",
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1500CC',
     seat: '5seater',
@@ -67,6 +82,9 @@ export const saleList = [{
   img:"images/products/img6.jpg",
   brand: "Toyota",
   name: "Toyota Fielder",
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1500CC 2wd',
     seat: '5seater Manual 5 speed gear',
@@ -76,6 +94,9 @@ export const saleList = [{
   img:"images/products/img7.jpg",
   brand: 'Toyota',
   name: 'Toyota Wish',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features:{
     fuel: '1800CC',
     seat: '8seater',
@@ -85,6 +106,9 @@ export const saleList = [{
   img: "images/products/img8.jpg",
   brand: 'Toyota',
   name: 'Toyota Fielder 2009',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features: {
     fuel: '1500CC',
     seat: '8seater Auto transmission'
@@ -94,6 +118,9 @@ export const saleList = [{
   img: "images/products/img9.jpg",
   brand: 'Toyota',
   name: 'Toyota Harrier 2011',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features: {
     fuel: '1800CC',
     seat: 'Super Clean, Trade in accepted'
@@ -103,6 +130,9 @@ export const saleList = [{
   img: "images/products/img10.jpg",
   brand: 'Toyota',
   name: 'Toyota ISIS 2011',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features: {
     fuel: '1800CC',
     seat: '7seater Accident free 135km mileage'
@@ -112,6 +142,9 @@ export const saleList = [{
   img: "images/products/img11.jpg",
   brand: 'Nissan',
   name: 'Nissan Hard Body 2012',
+  saleStock:"In stock",
+  consumption: "Diesel",
+  gear: "Automatic",
   features: {
     fuel: '3000CC',
     seat: 'Extremely Clean'
@@ -121,6 +154,9 @@ export const saleList = [{
   img: "images/products/img12.jpg",
   brand: 'Toyota',
   name: 'Toyota Fielder 2012',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
   features: {
     fuel: '1800CC',
     seat: '2WD original neat dark interior'
