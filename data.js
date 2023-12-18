@@ -19,6 +19,18 @@ export const dataList = [{
 }]
 
 export const saleList = [{
+  img:"images/products/img6.jpg",
+  brand: "Toyota",
+  name: "Toyota Fielder",
+  saleStock:"Sold",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features:{
+    fuel: '1500CC 2wd',
+    seat: '5seater Manual 5 speed gear',
+  },
+  price: '450,000' 
+},{
   img:"images/products/img1.jpg",
   brand: "Toyota",
   name: "Toyota Noah YOM 2014",
@@ -78,18 +90,6 @@ export const saleList = [{
     seat: '5seater',
   },
   price: '850,000' 
-},{
-  img:"images/products/img6.jpg",
-  brand: "Toyota",
-  name: "Toyota Fielder",
-  saleStock:"In stock",
-  consumption: "Petrol",
-  gear: "Automatic",
-  features:{
-    fuel: '1500CC 2wd',
-    seat: '5seater Manual 5 speed gear',
-  },
-  price: '450,000' 
 },{
   img:"images/products/img7.jpg",
   brand: 'Toyota',
