@@ -19,6 +19,18 @@ export const dataList = [{
 }]
 
 export const saleList = [{
+  img:"images/products/img6.jpg",
+  brand: "Toyota",
+  name: "Toyota Fielder",
+  saleStock:"Sold",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features:{
+    fuel: '1500CC 2wd',
+    seat: '5seater Manual 5 speed gear',
+  },
+  price: '450,000' 
+},{
   img:"images/products/img1.jpg",
   brand: "Toyota",
   name: "Toyota Noah YOM 2014",
@@ -78,18 +90,6 @@ export const saleList = [{
     seat: '5seater',
   },
   price: '850,000' 
-},{
-  img:"images/products/img6.jpg",
-  brand: "Toyota",
-  name: "Toyota Fielder",
-  saleStock:"In stock",
-  consumption: "Petrol",
-  gear: "Automatic",
-  features:{
-    fuel: '1500CC 2wd',
-    seat: '5seater Manual 5 speed gear',
-  },
-  price: '450,000' 
 },{
   img:"images/products/img7.jpg",
   brand: 'Toyota',
@@ -162,6 +162,42 @@ export const saleList = [{
     seat: '2WD original neat dark interior'
   },
   price: '1,250,000'
+},{
+  img: "images/products/img13.jpg",
+  brand: 'Nissan',
+  name: 'Nissan Bluebird 2003',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1800CC',
+    seat: 'Milage 126k 2WD'
+  },
+  price: '590,000'
+},{
+  img: "images/products/img14.jpg",
+  brand: 'Mazda',
+  name: 'Mazda Demio 2012',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1300CC',
+    seat: 'Neat clean, Buy and drive'
+  },
+  price: '730,000'
+},{
+  img: "images/products/img15.jpg",
+  brand: 'Toyota',
+  name: 'Toyota Alphard 2006',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '2500CC',
+    seat: 'Neat clean, Buy and drive'
+  },
+  price: '800,000'
 }]
 
 
