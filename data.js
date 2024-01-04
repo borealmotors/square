@@ -163,18 +163,6 @@ export const saleList = [{
   },
   price: '1,250,000'
 },{
-  img: "images/products/img13.jpg",
-  brand: 'Nissan',
-  name: 'Nissan Bluebird 2003',
-  saleStock:"In stock",
-  consumption: "Petrol",
-  gear: "Automatic",
-  features: {
-    fuel: '1800CC',
-    seat: 'Milage 126k 2WD'
-  },
-  price: '590,000'
-},{
   img: "images/products/img14.jpg",
   brand: 'Mazda',
   name: 'Mazda Demio 2012',
@@ -198,6 +186,18 @@ export const saleList = [{
     seat: 'Neat clean, Buy and drive'
   },
   price: '800,000'
+},{
+  img: "images/products/img17.jpg",
+  brand: 'Suzuki',
+  name: 'Suzuki Alto 2012',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '650CC',
+    seat: 'Neat clean, Buy and drive'
+  },
+  price: '595,000'
 }]
 
 
