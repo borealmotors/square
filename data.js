@@ -198,6 +198,18 @@ export const saleList = [{
     seat: 'Neat clean, Buy and drive'
   },
   price: '595,000'
+},{
+img: "images/products/img18.jpg",
+  brand: 'toyota',
+  name: 'Toyota allex 2005',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1500CC',
+    seat: 'Neat clean, Buy and drive'
+  },
+  price: '790,000',
 }]
 
 
