@@ -16,7 +16,7 @@ export const dataList = [{
 },{
   image: "images/features/f6.png",
   title:"F24/7 Support"
-},
+}]
 export const saleList =[{
 
   img:"images/products/img6.jpg",
