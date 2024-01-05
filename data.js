@@ -18,7 +18,6 @@ export const dataList = [{
   title:"F24/7 Support"
 }]
 export const saleList =[{
-
   img:"images/products/img6.jpg",
   brand: "Toyota",
   name: "Toyota Fielder",
@@ -42,7 +41,7 @@ export const saleList =[{
     seat: '5seater',
   },
   price: '750,000',
-  }, {
+  },{
   img:"images/products/img3.jpg",
   brand: "Toyota",
   name: "Toyota VITZ 2007",
@@ -198,9 +197,7 @@ img: "images/products/img18.jpg",
     seat: 'Neat clean, Buy and drive'
   },
   price: '790,000',
-}
-
-]
+}]
 
 
 export const backGroundImg = ['images/barner/b1.jpg','images/barner/b11.jpg', 'images/barner/b10.jpg', 'images/barner/b2.jpg', 'images/barner/b4.jpg' ]
