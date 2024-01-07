@@ -78,17 +78,17 @@ export const saleList =[{
   },
   price: '850,000' 
 },{
-  img:"images/products/img7.jpg",
+  img:"images/products/img 25.jpg",
   brand: 'Toyota',
-  name: 'Toyota Wish',
+  name: 'Toyota Belta',
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features:{
-    fuel: '1800CC',
-    seat: '8seater',
+    fuel: '1300CC',
+    seat: '5seater',
   },
-  price: '510,000'
+  price: '610,000'
 },{
   img: "images/products/img8.jpg",
   brand: 'Toyota',
