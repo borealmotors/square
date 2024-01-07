@@ -54,17 +54,17 @@ export const saleList =[{
   },
   price: '620,000'
 },{
-  img:"images/products/img4.jpg",
-  brand: "Nissan",
-  name: "Nissan Wingroad",
+  img:"images/products/img 24.jpg",
+  brand: "mazda",
+  name: "mazda demio",
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features:{
-    fuel: '1500CC',
+    fuel: '1300CC',
     seat: '5seater',
   },
-  price: '580,000' 
+  price: '440,000' 
 },{
   img:"images/products/img5.jpg",
   brand: "Toyota",
