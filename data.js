@@ -212,7 +212,7 @@ img: "images/products/img18.jpg",
 },{
   img: "images/products/img 29.jpg",
   brand: 'toyota',
-  name: 'Toyota Premio 260 YOM 2012',
+  name: 'Toyota Premio YOM 2012',
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
