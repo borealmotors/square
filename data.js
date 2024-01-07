@@ -197,6 +197,19 @@ img: "images/products/img18.jpg",
     seat: 'Neat clean, Buy and drive'
   },
   price: '790,000',
+},{
+
+  img: "images/products/img 27.jpg",
+  brand: 'toyota',
+  name: 'Toyota Mark X 2008',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '2500CC',
+    seat: 'Neat clean, Buy and drive'
+  },
+  price: '930,000',
 }
 
 ]
