@@ -220,7 +220,7 @@ img: "images/products/img18.jpg",
     fuel: '1800CC',
     seat: 'Neat clean, Buy and drive'
   },
-  price: '1.470,000',
+  price: '1,470,000',
 }
 
 ]
