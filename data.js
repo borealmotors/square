@@ -18,21 +18,21 @@ export const dataList = [{
   title:"F24/7 Support"
 }]
 export const saleList =[{
-  img:"images/products/image 19.jpg",
-  brand: "Volkswagen",
-  name: "Volkswagen passat TSI",
+  img:"images/products/img 36.jpg",
+  brand: "NISSAN",
+  name: "NISSAN CARAVAN",
   saleStock:"instock",
-  consumption: "Petrol",
+  consumption: "DIESEL",
   gear: "Automatic",
   features:{
-    fuel: '1800CC',
-    seat: '5seater Automatic gear',
+    fuel: '3000CC',
+    seat: '',
   },
-  price: '970,000',
+  price: '770,000',
   },{
-  img:"images/products/img2.jpg",
-  brand: "Nissan",
-  name: "Nissan Note 2013",
+  img:"images/products/img 31.jpg",
+  brand: "SUZUKI",
+  name: "SUZUKI ESCUDO 2016",
   saleStock: "In Stock",
   consumption: "Petrol",
   gear: "Automatic",
@@ -40,11 +40,11 @@ export const saleList =[{
     fuel: '1500CC',
     seat: '5seater',
   },
-  price: '750,000',
+  price: '2,950,000',
   }, {
-  img:"images/products/img3.jpg",
-  brand: "Toyota",
-  name: "Toyota VITZ 2007",
+  img:"images/products/img 32.jpg",
+  brand: "NISSAN",
+  name: "NISSAN NOTE ",
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
@@ -52,19 +52,19 @@ export const saleList =[{
     fuel: '1300CC',
     seat: '5seater',
   },
-  price: '620,000'
+  price: '500,000'
 },{
-  img:"images/products/img 24.jpg",
-  brand: "mazda",
-  name: "mazda demio",
+  img:"images/products/img 33.jpg",
+  brand: "CROWN",
+  name: "TOYOTA CROWN",
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features:{
-    fuel: '1300CC',
+    fuel: '2500CC',
     seat: '5seater',
   },
-  price: '440,000' 
+  price: '1.1M' 
 },{
   img:"images/products/img5.jpg",
   brand: "Toyota",
@@ -114,7 +114,7 @@ export const saleList =[{
   },
   price: '1,790,000'
 },{
-  img: "images/products/img10.jpg",
+  img: "images/products/img 41.jpg",
   brand: 'Toyota',
   name: 'Toyota ISIS 2011',
   saleStock:"In stock",
@@ -138,19 +138,19 @@ export const saleList =[{
   },
   price: '1,475,000'
 },{
-  img: "images/products/img12.jpg",
-  brand: 'Toyota',
-  name: 'Toyota Fielder 2012',
-  saleStock:"In stock",
+  img: "images/products/img 48.jpg",
+  brand: 'MAZDA',
+  name: 'MAZDA DEMIO ',
+  saleStock:"AVAILABLE",
   consumption: "Petrol",
   gear: "Automatic",
   features: {
-    fuel: '1800CC',
-    seat: '2WD original neat dark interior'
+    fuel: '1300CC',
+    seat: '4 SEATER BUY AND DRIVE'
   },
-  price: '1,250,000'
+  price: '550,000'
 },{
-  img: "images/products/img14.jpg",
+  img: "images/products/img 44.jpg",
   brand: 'Mazda',
   name: 'Mazda Demio 2012',
   saleStock:"In stock",
@@ -162,7 +162,7 @@ export const saleList =[{
   },
   price: '730,000'
 },{
-  img: "images/products/img15.jpg",
+  img: "images/products/img 39.jpg",
   brand: 'Toyota',
   name: 'Toyota Alphard 2006',
   saleStock:"In stock",
@@ -174,7 +174,7 @@ export const saleList =[{
   },
   price: '800,000'
 },{
-  img: "images/products/img17.jpg",
+  img: "images/products/img 42.jpg",
   brand: 'Suzuki',
   name: 'Suzuki Alto 2012',
   saleStock:"In stock",
@@ -186,19 +186,19 @@ export const saleList =[{
   },
   price: '595,000'
 },{
-img: "images/products/img18.jpg",
-  brand: 'toyota',
-  name: 'Toyota allex 2005',
+img: "images/products/img 46.jpg",
+  brand: 'HONDA',
+  name: 'HONDA VEZEL HYBRID 2016',
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features: {
     fuel: '1500CC',
-    seat: 'Neat clean, Buy and drive'
+    seat: '5 seater,ECO sport mode'
   },
-  price: '790,000',
+  price: '2,650,000',
 },{
-  img: "images/products/img 27.jpg",
+  img: "images/products/img 47.jpg",
   brand: 'toyota',
   name: 'Toyota Mark X 2008',
   saleStock:"In stock",
@@ -210,7 +210,7 @@ img: "images/products/img18.jpg",
   },
   price: '930,000',
 },{
-  img: "images/products/img 29.jpg",
+  img: "images/products/img 45.jpg",
   brand: 'toyota',
   name: 'Toyota Premio YOM 2012',
   saleStock:"In stock",
@@ -221,8 +221,20 @@ img: "images/products/img18.jpg",
     seat: 'Neat clean, Buy and drive'
   },
   price: '1,470,000',
-}
 
+},{
+  img: "images/products/img 30.jpg",
+  brand: 'LEXUS',
+  name: 'Lexus NX 300H 2016',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '2500CC',
+    seat: 'Neat clean'
+  },
+  price: '5,600,000',
+}
 ]
 
 

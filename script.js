@@ -47,6 +47,7 @@ saleList.forEach((sale) => {
   <div class="des">
     <span>${sale.brand}</span> 
     <h5>${sale.name} <span class="sale-stock">${sale.saleStock}</span></h5>
+    <p>${sale.details}</p>
     <div class="star">
      <p>${sale.features.fuel}</p>
      <p>${sale.features.seat}</p>

@@ -211,8 +211,7 @@ body{
   text-align: center;
   border: 1px solid black;
   padding: 15px 60px;
-  background-color: red;
-  border-radius: 10px;
+  border-radius: 50%;
   box-shadow: 1px 1px 10px grey;
   transition: .3s ease;
 }
@@ -231,6 +230,7 @@ body{
 }
 .socials a i{
   color: white;
+  font-size: 15px;
 }
 
 #product1{
