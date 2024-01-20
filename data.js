@@ -78,7 +78,7 @@ export const saleList =[{
   },
   price: '850,000' 
 },{
-  img:"images/products/img 25.jpg",
+  img:"images/products/img 49.jpg",
   brand: 'Toyota',
   name: 'Toyota Belta',
   saleStock:"In stock",
@@ -90,29 +90,29 @@ export const saleList =[{
   },
   price: '610,000'
 },{
-  img: "images/products/img8.jpg",
+  img: "images/products/img 51.jpg",
   brand: 'Toyota',
-  name: 'Toyota Fielder 2009',
+  name: 'Toyota probox 2010',
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features: {
     fuel: '1500CC',
-    seat: '8seater Auto transmission'
+    seat: '5 seater Auto transmission'
   },
-  price: '1,050,000'
+  price: '790,000'
 },{
-  img: "images/products/img9.jpg",
+  img: "images/products/img 52.jpg",
   brand: 'Toyota',
-  name: 'Toyota Harrier 2011',
+  name: 'Toyota filder 2014',
   saleStock:"In stock",
   consumption: "Petrol",
   gear: "Automatic",
   features: {
     fuel: '1800CC',
-    seat: 'Super Clean, Trade in accepted'
+    seat: 'Super Clean, buy and drive'
   },
-  price: '1,790,000'
+  price: '1.3M'
 },{
   img: "images/products/img 41.jpg",
   brand: 'Toyota',
@@ -126,7 +126,7 @@ export const saleList =[{
   },
   price: '899,000 trade in accepted'
 },{
-  img: "images/products/img11.jpg",
+  img: "images/products/img 53.jpg",
   brand: 'Nissan',
   name: 'Nissan Hard Body 2012',
   saleStock:"In stock",
