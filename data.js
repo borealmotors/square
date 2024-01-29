@@ -234,6 +234,42 @@ img: "images/products/img 46.jpg",
     seat: 'Neat clean'
   },
   price: '5,600,000',
+},{
+  img: "images/products/img 54.jpg",
+  brand: 'TOYOTA',
+  name: 'Toyota porte',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1300CC',
+    seat: 'Neat clean'
+  },
+  price: '520,000',
+},{
+  img: "images/products/img 55.jpg",
+  brand: 'NISSAN',
+  name: 'nissan note 2011 model',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1500CC',
+    seat: 'Neat clean'
+  },
+  price: '630,000',
+},{
+  img: "images/products/img 56.jpg",
+  brand: 'MAZDA',
+  name: 'Mazda flair encharge 2016 model',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '660CC',
+    seat: 'Neat clean'
+  },
+  price: '630,00',
 }
 ]
 
