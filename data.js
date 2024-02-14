@@ -269,7 +269,59 @@ img: "images/products/img 46.jpg",
     fuel: '660CC',
     seat: 'Neat clean'
   },
-  price: '630,00',
+  price: '630,000',
+},{
+  
+  img: "images/products/img 57.jpg",
+  brand: 'MAZDA',
+  name: 'Mazda CX5 newshape model 2017',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '2000CC',
+    seat: 'Neat clean'
+  },
+  price: '3.25M',
+},{
+  
+  img: "images/products/img 58.jpg",
+  brand: 'nissan',
+  name: 'nissan',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1300CC',
+    seat: 'Neat clean'
+  },
+  price: '250k',
+},{
+  
+  img: "images/products/img 59.jpg",
+  brand: 'TOYOTA',
+  name: 'TOYOTA AXIO',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1500CC',
+    seat: 'Neat clean'
+  },
+  price: '1.4M slightly negotiable',
+},{
+  
+  img: "images/products/img 60.jpg",
+  brand: 'TOYOTA',
+  name: 'TOYOTA ALLION',
+  saleStock:"In stock",
+  consumption: "Petrol",
+  gear: "Automatic",
+  features: {
+    fuel: '1500CC',
+    seat: 'Neat clean'
+  },
+  price: '2,000,000',
 }
 ]
 
